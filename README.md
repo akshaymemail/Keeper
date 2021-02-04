@@ -1,4 +1,4 @@
-# keeper
+# keeper - A google keep clone
 
 ## Usage
 
